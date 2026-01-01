@@ -241,7 +241,6 @@ MAIN FILE (main_binary.cpp):
 - Calls functions based on user choice
 - No other code (as per requirement)
 
-NOTES FOR STUDENTS:
 -------------------
 This code demonstrates:
 1. Custom Binary Tree implementation (no STL)
@@ -267,9 +266,3 @@ BINARY TREE:
 - Simpler pointer structure
 - More constrained but easier to work with
 - Standard data structure in CS courses
-
-THIS PROJECT USES BINARY TREE AS REQUIRED!
-
-========================================
-GOOD LUCK WITH YOUR PROJECT! 🚀
-========================================
